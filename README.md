@@ -48,6 +48,7 @@ Main functionalities for web platforms:
 - JSON
 - Excel
 - Txt files
+- WordPress REST API Authentication
 
 ### Run the app
 Download files from GitHub
