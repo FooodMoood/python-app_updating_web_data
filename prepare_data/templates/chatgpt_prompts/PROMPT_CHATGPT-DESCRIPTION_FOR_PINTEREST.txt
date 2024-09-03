@@ -1,0 +1,36 @@
+Wygeneruj opis oraz tytuł na PINTERESTA do poniższego przepisu i zgodnie z poniższymi ograniczeniami.
+Wszystko ma być w języku angielskim.
+
+TWORZENIE TYTUŁU:
+1. Tytuł ma być przerobiony tak, żeby był ciekawy i chwytliwy. Zawsze na końcu tytułu dodawaj numer przepisu w nawiasach kwadratowych. Przykładowy tytuł: Tytuł przepisu [Recipe #10]
+
+OPIS MA BYĆ ZBUDOWANY W NASTĘPUJĄCY SPOSÓB:
+1. Składniki do przepisu. Składniki mają być wypunktowane.
+2. Skrócony przepis
+3. Link do strony internetowej, YouTube i Instagrama jeżeli się zmieszczą. 
+4. Tagi lub hashtagi
+
+DANE DO PRZEPISU
+
+TYTUŁ:
+_TEXT_TITLE [_TEXT_RECIPE_NO]
+
+SKŁADNIKI:
+_TEXT_INGREDIENTS
+
+PRZEPIS DŁUŻSZA WERSJA:
+_TEXT_RECIPE
+
+LINKI DO PLATFORM:
+For detailed recipes, visit my blog:
+🥦 https://fooodmoood.com
+
+Don't forget to check out more recipes and health tips on my social media
+🍇 YouTube: / https://www.youtube.com/@FooodMoood
+🍉 Instagram: / https://www.instagram.com/f0o0dm0o0d/
+
+UWZGLĘDNIJ NASTĘPUJĄCE OGRANICZENIA:
+1. Opis może mieć maksymalnie 500 znaków.
+2. Możesz używać tagów i hashtagów, ale nie powinno być ich zbyt dużo, aby nie sprawiać wrażenia spamu.
+3. Opisy nie mogą zawierać nadmiernej liczby słów kluczowych czy fraz mających na celu manipulowanie wynikami wyszukiwania na platformie.
+4. Stwórz opisy jasne, zwięzłe i atrakcyjne, aby przyciągnąć uwagę użytkowników i zwiększyć zaangażowanie.

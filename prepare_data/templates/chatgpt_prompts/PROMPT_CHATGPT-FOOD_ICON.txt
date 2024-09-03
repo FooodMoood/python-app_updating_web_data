@@ -1,0 +1,1 @@
+Wygeneruj przykład ilustracji w stylu komiksu. Ilustracja ma przedstawiać składnik odżywczy. Ilustracja ma się znajdować w centralnej części obrazu. Tło ma być białe i jednolite. Składnik odżywczy to: _TEXT_FOOD_ICON.

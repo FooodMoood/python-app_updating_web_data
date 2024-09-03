@@ -1,0 +1,52 @@
+Wygeneruj opis, tytuł oraz słowa kluczowe na YOUTUBE do poniższego przepisu i zgodnie z poniższymi ograniczeniami.
+Wszystko ma być w języku angielskim.
+
+TWORZENIE TYTUŁU:
+1. Tytuł ma być przerobiony tak, żeby był ciekawy i chwytliwy. Zawsze na końcu tytułu dodawaj numer przepisu w nawiasach kwadratowych. Przykładowy tytuł: Tytuł przepisu [Recipe #10]
+
+OPIS MA BYĆ ZBUDOWANY W NASTĘPUJĄCY SPOSÓB:
+1. Wstęp
+2. Krótka zapowiedź czego dotyczy przepis stworzona na podstawie poniższych danych.
+3. Składniki do przepisu. Składniki mają być wypunktowane. Przed każdym składnikiem ma być myślnik.
+4. Skrócony przepis
+5. Link do strony internetowej, YouTube, Pinteresta i Instagrama
+6. Ładne zakończenie opisu i życzenie smacznego. Dodanie do tego odpowiednich emotek
+7. Tagi lub hashtagi
+
+SŁOWA KLUCZOWE:
+Na podstawie poniższych danych przygotuj tagi oddzielone przecinkiem i mają być w jednej linii. Tagi maja zawierać maksymalnie 500 liter. Na końcu zawsze dodaj te tagi: Food mood, Foood moood, Foodmood, Fooodmoood
+
+WSTĘP DO OPISU:
+👀Did you know that food affects YOUR mood? 🍽️
+
+I'm obsessed with finding delicious and healthy recipes that make me feel great, and I want to share them with you! On my blog, you'll also find interesting facts about nutrition, life, sports, and health. 🌟
+
+DANE DO PRZEPISU:
+
+TYTUŁ:
+_TEXT_TITLE [_TEXT_RECIPE_NO]
+
+SKŁADNIKI:
+_TEXT_INGREDIENTS
+
+PRZEPIS DŁUŻSZA WERSJA:
+_TEXT_RECIPE
+
+LINKI DO PLATFORM:
+For detailed recipes, visit my blog:
+🥦 https://fooodmoood.com
+
+I strongly encourage you to leave a subscription. Subscription = MORE FOOOD! 😊  
+Subscribe: https://www.youtube.com/@FooodMoood?sub_confirmation=1
+
+Don't forget to check out more recipes and health tips on my social media
+🍉 Instagram: / https://www.instagram.com/f0o0dm0o0d/
+🍇 Pinterest: / https://pl.pinterest.com/fooodmoood
+
+UWZGLĘDNIJ NASTĘPUJĄCE OGRANICZENIA:
+1. Opis może mieć maksymalnie 5000 znaków.
+2. Pierwsze 200 znaków są najbardziej widoczne i pojawiają się obok filmu w wynikach wyszukiwania, więc warto umieścić w nich najważniejsze informacje.
+3. Umieść słowa kluczowe na początku opisu.
+4. Stosuj odpowiednie słowa kluczowe, które pomagają w pozycjonowaniu filmu.
+5. Unikaj nadmiernego używania hashtagów, ponieważ może to zostać uznane za spam.
+6. Tytuł może mieć maksymalnie 100 znaków.

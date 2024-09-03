@@ -1,0 +1,1 @@
+Wygeneruj po angielsku opis dotyczący ciekawostki dietetycznej na temat składnika odżywczego: _TEXT_DIETARY_CURIOSITY_INGREDIENT. Ciekawostka ma być na bloga i zawierać maksymalnie do 5 zdań.
