@@ -1,0 +1,30 @@
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Cut the chicken into smaller pieces. Add oregano, sweet pepper, cinnamon, chili, salt, pepper, lemon juice and garlic. Set aside the marinated chicken for 10 minutes.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Heat a pan with olive oil. Add the marinated chicken to the heated olive oil and fry until golden brown.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Cut the lettuce, red onion and tomatoes into small pieces.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Cut the garlic into small pieces.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Mix garlic, marjoram, natural yogurt and mayonnaise together to obtain garlic sauce.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Prepare 3 tortillas.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Place chopped lettuce in the center of each pancake.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Add tomatoes and baked chicken to the lettuce.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Sprinkle the prepared ingredients over the onion and add the garlic sauce on top.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Roll everything into a cake and fry it in a pan so that the tortilla does not fall apart.</li>
+<!-- /wp:list-item -->

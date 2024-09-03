@@ -1,0 +1,28 @@
+Wygeneruj opis oraz tytuł na INSTAGRAMA do poniższego przepisu i zgodnie z poniższymi ograniczeniami.
+Wszystko ma być w języku angielskim.
+
+TWORZENIE TYTUŁU:
+1. Tytuł ma być przerobiony tak, żeby był ciekawy i chwytliwy. Zawsze na końcu tytułu dodawaj numer przepisu w nawiasach kwadratowych. Przykładowy tytuł: Tytuł przepisu [Recipe #10]
+
+OPIS MA BYĆ ZBUDOWANY W NASTĘPUJĄCY SPOSÓB:
+1. Składniki do przepisu bez gramatury. Składniki mają być wypunktowane.
+2. Skrócony przepis
+3. Tagi lub hashtagi
+
+Dane do przepisu:
+
+TYTUŁ:
+_TEXT_TITLE [_TEXT_RECIPE_NO]
+
+SKŁADNIKI:
+_TEXT_INGREDIENTS
+
+PRZEPIS DŁUŻSZA WERSJA:
+_TEXT_RECIPE
+
+UWZGLĘDNIJ NASTĘPUJĄCE OGRANICZENIA:
+1. Opis może mieć maksymalnie 2,200 znaków.
+2. Możesz użyć do 30 hashtagów w jednym poście.
+3. Możesz oznaczyć do 20 kont w jednym poście.
+4. Opisy muszą być zgodne z zasadami społeczności Instagrama, co oznacza, że nie mogą zawierać treści obraźliwych, nienawistnych, wulgarnych czy naruszających prawa autorskie.
+5. Instagram zachęca do tworzenia opisów, które są autentyczne, angażujące i zgodne z tematyką profilu, aby przyciągnąć uwagę i zaangażowanie użytkowników.
