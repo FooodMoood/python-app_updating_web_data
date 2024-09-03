@@ -12,8 +12,9 @@ Support users in publishing data on WordPress and generate prompts for ChatGPT -
 5. Before every run automatic backup preparation in the indicated location
 
 Main functionalities for web platforms:
+
 | WordPress | YouTube | Instagram | Pinterest |
-| ----------- | ----------- | 
+| ----------- | ----------- | ----------- | ----------- | 
 | | prompt for ChatGPT | prompt for ChatGPT | prompt for ChatGPT | 
 | publishing new posts via API | | | |
 | generate copy-paste code for posts based on templates | | | |
@@ -58,6 +59,7 @@ git clone https://github.com/FooodMoood/python-app_updating_web_data.git
 Before using the app set you configuration in a files below:
 
 | File path | Variable name |
+| ----------- | ----------- | 
 | ..\apis\config.py | wp_base_url |
 | ..\apis\config.py | wp_username |
 | ..\apis\config.py | wp_password |
