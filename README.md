@@ -1,4 +1,4 @@
-![Application image - main page]()
+![Application image - main page](./screenshots/recipe_post_window_first_start.png)
 
 # APPLICATION UPDATING WEB DATA
 ## Objective
