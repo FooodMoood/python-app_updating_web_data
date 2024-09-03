@@ -30,6 +30,14 @@ Main functionalities for web platforms:
 - [License](./README.md#license)
 
 ## App examples
+![Application image](./screenshots/recipe_post_window_youtube_prompt.png)
+![Application image](./screenshots/recipe_post_window_wp_code_generate.png)
+![Application image](./screenshots/recipe_post_window_wp_code_publishing.png.png)
+![Application image](./screenshots/wp_post_published.png)
+![Application image](./screenshots/wp_post_published_visualization.png)
+![Application image](./screenshots/wp_post_published_visualization2.png)
+![Application image](./screenshots/wp_post_published_visualization3.png)
+![Application image](./screenshots/wp_post_published_visualization4.png)
 
 ## App settings
 
