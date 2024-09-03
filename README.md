@@ -15,10 +15,9 @@ Main functionalities for web platforms:
 
 | WordPress | YouTube | Instagram | Pinterest |
 | ----------- | ----------- | ----------- | ----------- | 
-| | prompt for ChatGPT | prompt for ChatGPT | prompt for ChatGPT | 
-| publishing new posts via API | | | |
-| generate copy-paste code for posts based on templates | | | |
-| ability to copy the entire code or its fragments from the UI level or separate text files | | | |
+| publishing new posts via API | prompt for ChatGPT | prompt for ChatGPT | prompt for ChatGPT | 
+| generate copy-paste code for posts based on templates | - | - | - |
+| ability to copy the entire code or its fragments from the UI level or separate text files | - | - | - |
 
 
 ## Content
