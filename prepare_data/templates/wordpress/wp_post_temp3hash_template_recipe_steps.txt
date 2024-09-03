@@ -1,0 +1,6 @@
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong>_TILTE_FOR_3HASH</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list">_INSERT_SUBRECIPE_STEPS_3HASH<!-- /wp:list -->

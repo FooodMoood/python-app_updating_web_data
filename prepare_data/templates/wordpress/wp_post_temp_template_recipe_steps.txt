@@ -1,0 +1,3 @@
+<!-- wp:list {"ordered":true} -->
+<ol>_INSERT_RECIPE_STEPS</ol>
+<!-- /wp:list -->

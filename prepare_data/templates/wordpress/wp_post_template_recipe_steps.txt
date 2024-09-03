@@ -1,0 +1,3 @@
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">_TEXT_RECIPE_STEP_X</li>
+<!-- /wp:list-item -->
